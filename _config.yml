@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://nr9992.github.io
+title: Neel
+email: neelraj0909@gmail.com
+author: Neel Raj
+description: Test Site
+paginate: 5
+google_analytics: 
